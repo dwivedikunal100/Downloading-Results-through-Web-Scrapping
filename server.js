@@ -11,12 +11,12 @@ var branchname=['ce','cs','et','it','ee','ch','me','be','ft','ot','pt','lt','pl'
 GetAllBranches();
 
 /*
-  Website not responding well on 1170 requests..
+  Website does not respond well on 1170 requests..
   Get Data one by one 
   However for using loop 
   1>remove below '//'
-  2>replace marks/${branchname[0]}.txt by marks/${branchname[i]}.txt 
-  3>replace GetBranchData(0); GetBranchData(i);
+  2>replace marks/${branchname[0]}.txt with marks/${branchname[i]}.txt 
+  3>replace GetBranchData(0); with GetBranchData(i);
 */
 
 function GetAllBranches(){

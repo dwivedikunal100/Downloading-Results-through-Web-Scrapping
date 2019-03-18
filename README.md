@@ -1,4 +1,4 @@
-# WEB-SCRAPING-SAMPLE
+# Downloading results through Web Scrapping
 A simple backend program to retrieve result information from http://hbtu.ac.in/ website ,
  To run this application...
 1. Install node.js from https://nodejs.org/
